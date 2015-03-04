@@ -1,2 +1,2 @@
 # java-core-ex
-Java Core Exercises
+[Java Core Tutorials](http://javadevnotes.com/) Exercises
